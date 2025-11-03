@@ -1,0 +1,14 @@
+{
+  "name": "broken-mcp",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "18.x",
+    "react-dom": "18.x"
+  }
+}
